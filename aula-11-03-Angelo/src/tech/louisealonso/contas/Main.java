@@ -2,7 +2,6 @@ package tech.louisealonso.contas;
 
 public class Main {
     public static void main(String[] args) {
-        // Exemplo de uso
         Conta conta1 = new Conta();
         Conta conta2 = new Conta();
         conta1.numero = 1;
